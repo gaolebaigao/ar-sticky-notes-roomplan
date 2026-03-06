@@ -1,69 +1,36 @@
-# AR Sticky Notes for Room Scans
+# ar-sticky-notes-roomplan
 
-An iOS AR app for scanning a room, restoring its spatial map later, and attaching sticky notes directly to real-world surfaces.
+## Project Title
 
-This project started from Apple sample code and was extended into a personal prototype focused on room persistence and note-based interaction.
-
-## What It Does
-
-- Scan a room with `RoomPlan` and save its `ARWorldMap`.
-- Reopen a saved room and relocalize back into the same space.
-- Place sticky notes on real surfaces in AR.
-- Attach either text or an image to a note.
-- Save notes per room and restore them on the next visit.
-- Manage saved rooms with rename and delete actions.
-
-## Demo Flow
-
-1. Start a new room scan.
-2. Move the device until mapping is ready.
-3. Save the room.
-4. Re-enter the saved room later.
-5. Add or edit AR sticky notes anchored to the environment.
+This project allows users to create sticky notes in a virtual room. They can add notes, customize them, and save their progress.
 
 ## Screenshots
 
-### Mesh Visualization
-![Mesh Visualization](Documentation/1.jpg)
+<img src="screenshot1.png" width="300" />
+<img src="screenshot2.png" width="300" />
+<img src="screenshot3.png" width="300" />
 
-### Ray-Plane Intersection
-![Ray-Plane Intersection](Documentation/2.jpg)
+## Installation
 
-### Sticky Notes Effect
-![Sticky Notes Effect](Documentation/3.jpg)
+1. Clone the repository: `git clone https://github.com/yourusername/ar-sticky-notes-roomplan`
+2. Navigate to the project directory and install dependencies:
+   ```bash
+   cd ar-sticky-notes-roomplan
+   npm install
+   ```
+3. Start the server:
+   ```bash
+   npm start
+   ```
 
-## Tech Stack
+## Usage
 
-- Swift
-- UIKit
-- ARKit
-- RealityKit
-- RoomPlan
+Open your browser and navigate to `http://localhost:3000` to start using the application.
 
-## Requirements
+## Contributing
 
-- Xcode 15 or later recommended
-- iOS device with LiDAR
-- iOS 16 or later for `RoomPlan`
+Contributions are welcome! Please open an issue or submit a pull request.
 
-## Project Structure
+## License
 
-- `VisualizingSceneSemantics/`: main application source
-- `VisualizingSceneSemantics.xcodeproj/`: Xcode project
-- `Documentation/`: screenshots and reference images
-- `Configuration/`: local project configuration
-
-## Open Source Notes
-
-- This repository contains derivative work based on Apple sample code.
-- Apple copyright and license terms are preserved in [LICENSE.txt](LICENSE.txt).
-- Additional attribution details are documented in [NOTICE.md](NOTICE.md).
-- A separate Apple reference sample exists locally in `CreateA3DModelOfAnInteriorRoomByGuidingTheUserThroughAnARExperience/` and is ignored by Git so it is not uploaded by accident.
-
-## Build
-
-Open `VisualizingSceneSemantics.xcodeproj` in Xcode and run the `Visualizing Scene Semantics` scheme on a physical iOS device.
-
-## Why This Repo Exists
-
-This is my first personal open source project on GitHub. The goal is to explore how room reconstruction, relocalization, and lightweight AR annotations can work together in a practical note-taking workflow.
+This project is licensed under the MIT License.
