@@ -1,15 +1,21 @@
-# AR Sticky Notes Room Plan
+# Project Title
 
-## Description
-Here you can add a description of the project.
+A brief description of your project.
+
+## Installation
+
+Instructions to install the project.
+
+## Usage
+
+Instructions on how to use the project.
 
 ## Screenshots
 
-### Mesh Visualization
-![Mesh Visualization](Documentation/1.jpg)
+![Screenshot 1](Documentation/1.jpg)
+![Screenshot 2](Documentation/2.jpg)
+![Screenshot 3](Documentation/3.jpg)
 
-### Ray-Plane Intersection
-![Ray-Plane Intersection](Documentation/2.jpg)
+## Open Source Notes
 
-### Sticky Notes Effect
-![Sticky Notes Effect](Documentation/3.jpg)
+Information about open source contributions.
