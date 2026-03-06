@@ -24,13 +24,13 @@ This project started from Apple sample code and was extended into a personal pro
 ## Screenshots
 
 ### Mesh Visualization
-![Mesh Visualization](Documentation/1.jpg)
+<img src="Documentation/1.jpg" alt="Mesh Visualization" width="250">
 
 ### Ray-Plane Intersection
-![Ray-Plane Intersection](Documentation/2.jpg)
+<img src="Documentation/2.jpg" alt="Ray-Plane Intersection" width="250">
 
 ### Sticky Notes Effect
-![Sticky Notes Effect](Documentation/3.jpg)
+<img src="Documentation/3.jpg" alt="Sticky Notes Effect" width="250">
 
 ## Tech Stack
 
