@@ -6,9 +6,9 @@ This project allows users to create sticky notes in a virtual room. They can add
 
 ## Screenshots
 
-<img src="screenshot1.png" width="300" />
-<img src="screenshot2.png" width="300" />
-<img src="screenshot3.png" width="300" />
+<img src="1.jpg" width="300" />
+<img src="2.jpg" width="300" />
+<img src="3.jpg" width="300" />
 
 ## Installation
 
