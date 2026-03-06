@@ -1,10 +1,15 @@
+# AR Sticky Notes Room Plan
+
+## Description
+Here you can add a description of the project.
+
 ## Screenshots
 
 ### Mesh Visualization
-![Mesh Visualization](link_to_mesh_visualization_image)
+![Mesh Visualization](Documentation/1.jpg)
 
 ### Ray-Plane Intersection
-![Ray-Plane Intersection](link_to_ray_plane_intersection_image)
+![Ray-Plane Intersection](Documentation/2.jpg)
 
 ### Sticky Notes Effect
-![Sticky Notes Effect](link_to_sticky_notes_effect_image)
+![Sticky Notes Effect](Documentation/3.jpg)
