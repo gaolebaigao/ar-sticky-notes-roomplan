@@ -35,7 +35,7 @@ This project started from Apple sample code and was extended into a personal pro
 ### Demo video
 <a href="https://youtube.com/shorts/N0cKa21NgzQ?feature=share"><img src="Documentation/4.png" alt="AR Sticky Notes Demo" width="250"></a>
 
-*(Click the image above to watch the video demonstration)*
+***(Click the image above to watch the video demonstration)***
 
 **The video demonstrates the core workflow:**
 * **Mapping & Anchoring:** Scanning a new room environment and placing AR sticky notes.
