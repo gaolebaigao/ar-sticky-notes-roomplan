@@ -32,6 +32,13 @@ This project started from Apple sample code and was extended into a personal pro
 ### Sticky Notes Effect
 <img src="Documentation/3.jpg" alt="Sticky Notes Effect" width="250">
 
+### Demo video
+[![AR Sticky Notes Demo](Documentation/3.jpg)](https://youtube.com/shorts/N0cKa21NgzQ?feature=share)
+
+**The video demonstrates the core workflow:**
+* **Mapping & Anchoring:** Scanning a new room environment and placing AR sticky notes.
+* **Spatial Persistence:** Re-entering the previously saved room to successfully reload and locate the anchored labels.
+
 ## Tech Stack
 
 - Swift
