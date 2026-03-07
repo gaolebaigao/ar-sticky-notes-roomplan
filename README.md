@@ -33,7 +33,9 @@ This project started from Apple sample code and was extended into a personal pro
 <img src="Documentation/3.jpg" alt="Sticky Notes Effect" width="250">
 
 ### Demo video
-[![AR Sticky Notes Demo](<“Documentation/4.png” width="250">)](https://youtube.com/shorts/N0cKa21NgzQ?feature=share)
+<a href="https://youtube.com/shorts/N0cKa21NgzQ?feature=share"><img src="Documentation/4.png" alt="AR Sticky Notes Demo" width="250"></a>
+
+*(Click the image above to watch the video demonstration)*
 
 **The video demonstrates the core workflow:**
 * **Mapping & Anchoring:** Scanning a new room environment and placing AR sticky notes.
