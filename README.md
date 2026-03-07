@@ -75,4 +75,4 @@ Open `VisualizingSceneSemantics.xcodeproj` in Xcode and run the `Visualizing Sce
 
 ## Why This Repo Exists
 
-This is my first personal open source project on GitHub. The goal is to explore how room reconstruction, relocalization, and lightweight AR annotations can work together in a practical note-taking workflow.
+This is my first personal open source project on GitHub, which also serves as my undergraduate graduation project. The goal is to explore how room reconstruction, relocalization, and lightweight AR annotations can work together in a practical note-taking workflow.
